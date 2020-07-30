@@ -1,0 +1,4 @@
+* text=auto
+*.cxx text
+*.hpp text
+*.xpm binary
