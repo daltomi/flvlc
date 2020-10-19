@@ -3,7 +3,7 @@ flvlc
 
 Note: I published this project first in https://sourceforge.net/projects/flvlc/
 
-<img src="https://git.disroot.org/daltomi/flvlc/raw/branch/master/screenshot.png"/>
+<img src="https://github.com/daltomi/flvlc/raw/master/screenshot.png"/>
 
 
 Platform:
